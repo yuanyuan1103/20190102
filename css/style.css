@@ -1,0 +1,272 @@
+  .button1 {
+      z-index: 4;
+  width: 120px;
+  border: none;
+  color: white;
+  padding: 5px 10px 5px 10px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 20px;
+  margin: 4px 2px;
+  cursor: pointer;
+  position: absolute;
+  top:40%;
+  right: 40%;
+  border-radius:  50px;
+}
+  .wo6{
+
+  color: #9b9b9b;
+
+  font-size: 20px;
+
+
+  position: absolute;
+  top:30%;
+  right: 40%;
+
+}
+
+.woo1
+{
+  color: #000;
+word-break: keep-all;
+
+}
+.yel
+{
+ background-color:#ffc251;
+}
+.re
+{
+   background-color:#ea6759;
+}
+.blu
+{
+  background-color:#5eabc8;
+}
+.pu
+{
+  background-color:#b9a0d0;
+}
+.wo
+{
+    z-index: 4;
+    cursor: pointer;
+   text-align: center;
+  font-size:35px;
+  font-weight:bold;
+  color: white;
+  position: absolute;
+  top:55%;
+  right: 20%;
+}
+.wo1
+{
+  z-index: 4;
+    cursor: pointer;
+   text-align: center;
+  font-size:35px;
+  font-weight:bold;
+  color: white;
+  position: absolute;
+  top:55%;
+  left: 20%;
+}
+.wo3
+{
+    cursor: pointer;
+   text-align: center;
+  font-size:25px;
+  font-weight:bold;
+  position: absolute;
+  top:40%;
+  right: 20%;
+}
+.wo4
+{
+  font-size:25px;
+  font-weight:bold;
+  position: absolute;
+  top:40%;
+  left: 20%;
+}
+.wo7
+{
+  font-size:15px;
+  font-weight:bold;
+  position: absolute;
+  top:60%;
+  left: 43%;
+}
+.pic
+{
+
+    position: absolute;
+  top:68%;
+  left: 46%;
+}
+.nav-item:hover
+{
+ background-color: #e3e3e3;  
+}
+div.example {
+
+    position: absolute;
+  top:24%;
+  left: 39%;
+  z-index: 3;
+}
+div.example img
+{
+  width: 350px;
+}
+.svgline
+{
+  background-color:#00b900;
+  width: 35px;
+  padding: 8px  5px  3px  5px;
+  border-radius:10px;    
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19); 
+  position: absolute;
+  top:15%;right: 300px;z-index: 5;
+}
+@media screen and (max-width: 991.98px) {
+  div.example {
+height: 568px;
+background-color: #fae2a4;
+     position: relative;
+    width: 102%;
+  left: 0;
+  }
+  div.example img{
+width: 1000px;
+  position: absolute;
+  top:15%;
+z-index: 2;
+
+  }
+  .wo3
+{
+  z-index: 2;
+  font-size:50px;
+  font-weight:bold;
+  position: absolute;
+  top:70%;
+    left: 50%;
+
+}
+.wo4
+{
+    z-index: 2;
+  font-size:50px;
+  font-weight:bold;
+  position: absolute;
+  top:70%;
+  left: 24%;
+}
+.wo6
+{
+    z-index: 2;
+  font-size:50px;
+  font-weight:bold;
+  position: absolute;
+  top:60%;
+
+}
+.wo7
+{
+    z-index: 2;
+  font-size:30px;
+  font-weight:bold;
+  position: absolute;
+  top: 85%;
+  left: 47%;
+}
+
+  .button1 {
+      z-index: 4;
+  width: 25vw;
+
+  font-size:50px;
+
+  top:40%;
+  right: 38%;
+  border-radius:  50px;
+}
+.wo
+{
+    z-index: 4;
+    cursor: pointer;
+   text-align: center;
+  font-size:45px;
+  font-weight:bold;
+  color: white;
+  position: absolute;
+  top:55%;
+  right: 20%;
+}
+.wo1
+{
+  z-index: 4;
+    cursor: pointer;
+   text-align: center;
+  font-size:45px;
+  font-weight:bold;
+  color: white;
+  position: absolute;
+  top:55%;
+  left: 20%;
+}
+
+.nav-link
+{
+  font-size: 50px;
+}
+
+.woo1
+{
+  color: #000;
+  padding-left: 30px;
+
+}
+.non
+{
+  display:none;
+}
+.le
+{
+  text-align: left;
+}
+.pic
+{
+  width: 50px;
+  z-index: 5;
+  position: absolute;
+  top:93%;
+    left: 49%;
+}
+.svgline
+{
+  background-color:#00b900;
+  width: 35px;
+  padding: 8px  5px  3px  5px;
+  border-radius:10px;    
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19); 
+  position: absolute;
+  top:10%;right: 2%;z-index: 5;
+}
+}
+
+
+@media screen and (max-width: 991.98px) {
+.heig
+{
+  height: 568px;
+}
+  div.heig img
+    {
+z-index: 3;position: absolute;
+    }
+}
